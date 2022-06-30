@@ -1,1 +1,1 @@
-<script>alert('Hello');</script>
+<xss onbeforescriptexecute=alert(1)><script>1</script>
