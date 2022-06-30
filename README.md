@@ -1,1 +1,1 @@
-<xss onbeforescriptexecute=alert(1)><script>1</script>
+<body onload=alert(1)>
